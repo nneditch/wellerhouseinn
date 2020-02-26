@@ -151,7 +151,7 @@ u {
     .loadingScreen .logo {
         width: auto !important;
         max-height: 120px;
-        top: 40%;
+        top: 20%;
     }
 }
 
