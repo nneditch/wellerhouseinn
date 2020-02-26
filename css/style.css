@@ -158,6 +158,7 @@ u {
 @media only screen and (max-width: 760px) {
     .loadingScreen .logo {
         width: 75%;
+        top: 20%;
     }
 }
 
